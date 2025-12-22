@@ -16,8 +16,8 @@ I divide the difficulty into three levels.  Suppose the difficulty is $d$.
 
 | Name | Author | Language | Platform | Difficulty | Solution |
 | --- | --- | --- | --- | --- | --- |
-| [crypted string crackme][m1_link] | SUSPEKT | C/C++ | Windows | 2.5 | [Link][m1_solution_link] |
-| [StaticAuth][m2_link] | sally1337 | C/C++ | Windows | 2.0 | [Link][m2_solution_link] |
+| [crypted string crackme][m1_link] | SUSPEKT | C/C++ | Windows | 2.5 | [Solution link][m1_solution_link] |
+| [StaticAuth][m2_link] | sally1337 | C/C++ | Windows | 2.0 | [Solution link][m2_solution_link] |
 
 ## Hard
 
