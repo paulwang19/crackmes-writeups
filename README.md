@@ -18,11 +18,14 @@ I divide the difficulty into three levels.  Suppose the difficulty is $d$.
 | --- | --- | --- | --- | --- | --- |
 | [crypted string crackme][m1_link] | SUSPEKT | C/C++ | Windows | 2.5 | [Solution link][m1_solution_link] |
 | [StaticAuth][m2_link] | sally1337 | C/C++ | Windows | 2.0 | [Solution link][m2_solution_link] |
+| [Nexus! (Lite)][m3_link] | sally1337 | C/C++ | Windows | 2.2 | [Solution link][m3_solution_link] |
 
 ## Hard
 
 [m1_link]: https://crackmes.one/crackme/6757532360fa67152406b66e
 [m2_link]: https://crackmes.one/crackme/6947f3c00c16072f40f5a2b0
+[m3_link]: https://crackmes.one/crackme/694af49f0c16072f40f5a379
 
 [m1_solution_link]: ./crypted_string_crackme_BY_SUSPEKT/solution.md
 [m2_solution_link]: ./StaticAuth_BY_sally1337/solution.md
+[m3_solution_link]: ./Nexus%21_%28Lite%29_BY_sally1337/solution.md
